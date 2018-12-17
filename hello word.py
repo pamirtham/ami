@@ -3,7 +3,7 @@ int main() {
     int i, n;
     cin >> n;
     for (i=0; i<n; i++) {
-        count << "hello world\n";
+         count << "hello world\n";
     }
     return 0;
  }
