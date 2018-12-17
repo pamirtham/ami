@@ -1,5 +1,5 @@
-a=int(input("Enter a number : "));
-if(a%2==0):
-    print("This number is Even")
+a=int(input(""))
+if (a%2==0):
+    print("Even")
 else:
-    print("This number is odd")
+    print("odd")
