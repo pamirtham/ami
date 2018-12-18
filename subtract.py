@@ -3,5 +3,5 @@ def main():
     print("Today's date is", todays)
     
     
-if --name-- == "--main--"
+if __name__ == "__main__"
     main()
