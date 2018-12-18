@@ -1,6 +1,6 @@
 s = "malayalam"
 ans = ispalindrome(s)
 if ans == 1:
-    print("yes")
+    print ("yes")
 else:
-    print("No") 
+    print ("No") 
