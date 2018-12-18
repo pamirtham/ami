@@ -1,5 +1,5 @@
-struct elecount {
-   int element;
-   int count;
+struct eleCount {
+    int element;
+    int count;
 };
-struct elecount temp[];
+struct eleCount temp[];
