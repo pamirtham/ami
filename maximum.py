@@ -11,7 +11,7 @@ def Nmaxelements(list1, N):
         list1.remove(max1); 
         final_list.append(max1) 
           
-    print(final_list) 
+    print (final_list) 
    
 list1 = [2, 6, 41, 85, 0, 3, 7, 6, 10] 
 N = 2
