@@ -1,4 +1,4 @@
-void reorder (int arr[], int index[], int n) 
+void reorder(int arr[], int index[], int n) 
 { 
     int temp[n]; 
   
