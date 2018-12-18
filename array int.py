@@ -12,7 +12,7 @@ void printAllAPTriplets(int arr[], int n)
             cout << arr[i] - diff << " " << arr[i] 
                  << " " << arr[j] << endl; 
     } 
-    s.insert (arr[i]); 
+    s.insert(arr[i]); 
     } 
 } 
    
